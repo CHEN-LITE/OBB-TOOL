@@ -1,0 +1,17 @@
+cd $HOME/OBB-TOOL
+chmod +x unpackobb
+chmod +x repack.bms
+chmod +x unpack.bms
+chmod +x unpackobb1
+chmod +x repack1.bms
+chmod +x unpack1.bms
+chmod +x unpackobb2
+chmod +x repack2.bms
+chmod +x unpack2.bms
+chmod +x zipOBB
+chmod +x setup
+chmod +x CHEN
+chmod +x CHEN1
+chmod +x CHEN2
+chmod +x rani
+./setup
