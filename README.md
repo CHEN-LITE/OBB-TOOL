@@ -8,3 +8,7 @@ rm -rf $HOME/OBB-TOOL && pkg update -y && pkg upgrade -y && pkg install git -y &
 ```
 PASSWORD:- INDIANTOOL
 ```
+HOW TO USE MY TOOL👇
+```
+https://youtube.com/@chenlite2?si=7OIgYzIRn3AYG48u
+```
